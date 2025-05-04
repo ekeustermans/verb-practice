@@ -1,0 +1,2354 @@
+[
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"vais",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"vas",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"va",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"allons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"allez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"vont",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"irai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"iras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"ira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"irons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"irez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"iront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent d'aller",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"suis allé(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"es allé(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"il",
+    "correcte":"est allé",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"elle",
+    "correcte":"est allée",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"sommes allé(e)s",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"êtes allé(e)(s)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"ils",
+    "correcte":"sont allés",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"aller",
+    "tijd":"passé composé",
+    "persoon":"elles",
+    "correcte":"sont allées",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"raconte",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"racontes",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"raconte",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"racontons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"racontez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"racontent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"raconterai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"raconteras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"racontera",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"raconterons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"raconterez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"raconteront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de raconter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"raconter",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont raconté",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"habite",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"habites",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"habite",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"habitons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"habitez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"habitent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"habiterai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"habiteras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"habitera",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"habiterons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"habiterez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"habiteront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent d'habiter",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"habiter",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont habité",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"bois",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"bois",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"boit",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"buvons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"buvez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"boivent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"boirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"boiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"boira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"boirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"boirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"boiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de boire",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"boire",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont bu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"peux",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"peux",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"peut",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"pouvons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"pouvez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"peuvent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"pourrai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"pourras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"pourra",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"pourrons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"pourrez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"pourront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de pouvoir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"pouvoir",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont pu",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"pars",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"pars",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"part",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"partons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"partez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"partent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"partirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"partiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"partira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"partirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"partirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"partiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de partir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"suis parti(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"es parti(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"il",
+    "correcte":"est parti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"elle",
+    "correcte":"est partie",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"sommes parti(e)s",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"êtes parti(e)(s)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"ils",
+    "correcte":"sont partis",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"partir",
+    "tijd":"passé composé",
+    "persoon":"elles",
+    "correcte":"sont parties",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"dors",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"dors",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"dort",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"dormons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"dormez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"dorment",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"dormirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"dormiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"dormira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"dormirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"dormirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"dormiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de dormir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"dormir",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont dormi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"mens",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"mens",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"ment",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"mentons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"mentez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"mentent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"mentirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"mentiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"mentira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"mentirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"mentirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"mentiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de mentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"mentir",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont menti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"sens",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"sens",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"sent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"sentons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"sentez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"sentent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"sentirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"sentiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"sentira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"sentirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"sentirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"sentiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de sentir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sentir",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont senti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"sers",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"sers",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"sert",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"servons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"servez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"servent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"servirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"serviras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"servira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"servirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"servirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"serviront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de servir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"ai servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"as servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"il\/elle",
+    "correcte":"a servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"avons servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"avez servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"servir",
+    "tijd":"passé composé",
+    "persoon":"ils\/elles",
+    "correcte":"ont servi",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"je\/j'",
+    "correcte":"sors",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"tu",
+    "correcte":"sors",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"il\/elle",
+    "correcte":"sort",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"nous",
+    "correcte":"sortons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"vous",
+    "correcte":"sortez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"indicatif présent",
+    "persoon":"ils\/elles",
+    "correcte":"sortent",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"je\/j'",
+    "correcte":"vais sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"tu",
+    "correcte":"vas sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"il\/elle",
+    "correcte":"va sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"nous",
+    "correcte":"allons sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"vous",
+    "correcte":"allez sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur proche",
+    "persoon":"ils\/elles",
+    "correcte":"vont sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"je\/j'",
+    "correcte":"sortirai",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"tu",
+    "correcte":"sortiras",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"il\/elle",
+    "correcte":"sortira",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"nous",
+    "correcte":"sortirons",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"vous",
+    "correcte":"sortirez",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"futur simple",
+    "persoon":"ils\/elles",
+    "correcte":"sortiront",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"je\/j'",
+    "correcte":"viens de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"tu",
+    "correcte":"viens de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"il\/elle",
+    "correcte":"vient de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"nous",
+    "correcte":"venons de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"vous",
+    "correcte":"venez de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé récent",
+    "persoon":"ils\/elles",
+    "correcte":"viennent de sortir",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"je\/j'",
+    "correcte":"suis sorti(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"tu",
+    "correcte":"es sorti(e)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"il",
+    "correcte":"est sorti",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"elle",
+    "correcte":"est sortie",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"nous",
+    "correcte":"sommes sorti(e)s",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"vous",
+    "correcte":"êtes sorti(e)(s)",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"ils",
+    "correcte":"sont sortis",
+    "série":"Série 1"
+  },
+  {
+    "infinitief":"sortir",
+    "tijd":"passé composé",
+    "persoon":"elles",
+    "correcte":"sont sorties",
+    "série":"Série 1"
+  }
+]
